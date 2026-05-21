@@ -16,6 +16,7 @@ run/main_scene="uid://cqxp3da6l0iei"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 boot_splash/show_image=false
 config/icon="uid://cgx6fbhx8rgak"
+config/windows_native_icon="res://horta_tcc_icon_win.ico"
 
 [autoload]
 

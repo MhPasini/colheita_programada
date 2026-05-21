@@ -32,7 +32,7 @@ var DATA = [
 				{"type": "move_to", "target": Vector2i(0, 1), "completed": false, "progress_step": false},
 				{"type": "plant_at", "target": Vector2i(0, 1), "target_crop":"Cenoura", "completed": false, "progress_step": false},
 			]},
-		  {"info": "Regar o canteiro (0, 1) e aguardar", "has_progression": false, "progress_max": 0,
+		  {"info": "Regar o canteiro (0, 1) e aguardar 10s", "has_progression": false, "progress_max": 0,
 			"steps":[
 				{"type": "water_at", "target": Vector2i(0, 1), "completed": false, "progress_step": false}
 			]},
